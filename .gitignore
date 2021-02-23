@@ -3,7 +3,7 @@
 .idea
 
 *.pt
-
+!/inputs/demo.jpg
 # image
 *.jpg
 *.png
