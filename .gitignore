@@ -2,11 +2,13 @@
 .idea/
 .idea
 
+# Model
 *.pt
-!inputs/demo.jpg
-# image
+# Image
 *.jpg
 *.png
+
+!inputs/demo.jpg
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
